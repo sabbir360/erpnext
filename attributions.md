@@ -1,6 +1,6 @@
 ## ERPNext includes these public works
 
-For Frappe Framework, please see attributions.md at https://github.com/frappe/frappe/
+For Frappe Framework, please see attributions.md at https://github.com/sabbir360/frappe/
 
 #### Images
 

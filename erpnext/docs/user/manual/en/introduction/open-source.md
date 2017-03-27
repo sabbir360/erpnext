@@ -15,7 +15,7 @@ Advantages of an Open Source software are:
 
 ERPnext source repository is hosted at GitHub and can be found here
 
-- [https://github.com/frappe/erpnext](https://github.com/frappe/erpnext)
+- [https://github/erpnext](https://github.com/sabbir360/erpnext)
 
 
 ---

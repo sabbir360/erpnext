@@ -22,7 +22,7 @@ Contributing to ERPNext is not very different from the usual Pull Request workfl
 ###Prerequisites : 
 
 * You need to know [Git and Github basics](https://try.github.io/levels/1/challenges/1)
-* You need to have a Fork of the [ERPNext repo](https://github.com/frappe/erpnext) in your personal Github account 
+* You need to have a Fork of the [ERPNext repo](https://github.com/sabbir360/erpnext) in your personal Github account 
 * You need to add a [remote](#glossary) for your Forked repository. `git remote add origin [your-erpnext-repo-url]`
 
 

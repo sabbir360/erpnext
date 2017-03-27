@@ -6,7 +6,7 @@
 
 Includes: Accounting, Inventory, Manufacturing, CRM, Sales, Purchase, Project Management, HRMS. Requires MariaDB.
 
-ERPNext is built on the [Frappe](https://github.com/frappe/frappe) Framework, a full-stack web app framework in Python & JavaScript.
+ERPNext is built on the [Frappe](https://github.com/sabbir360/frappe) Framework, a full-stack web app framework in Python & JavaScript.
 
 - [User Guide](https://frappe.github.io/erpnext/)
 - [Getting Help](http://erpnext.org/getting-help.html)
@@ -16,7 +16,7 @@ ERPNext is built on the [Frappe](https://github.com/frappe/frappe) Framework, a 
 
 ### Full Install
 
-The Easy Way: our install script for bench will install all dependencies (e.g. MariaDB). See https://github.com/frappe/bench for more details.
+The Easy Way: our install script for bench will install all dependencies (e.g. MariaDB). See https://github.com/sabbir360/bench for more details.
 
 New passwords will be created for the ERPNext "Administrator" user, the MariaDB root user, and the frappe user (the script displays the passwords and saves them to ~/frappe_passwords.txt).
 

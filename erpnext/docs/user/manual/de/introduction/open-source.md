@@ -17,7 +17,7 @@ Vorteile einer freien Software sind:
 
 Der Speicherort des ERPNext-Quellcodes befindet sich auf GitHub. Sie finden ihn hier:
 
-- [https://github.com/frappe/erpnext](https://github.com/frappe/erpnext)
+- [https://github.com/sabbir360/erpnext](https://github.com/sabbir360/erpnext)
 
 ### Alternativen
 
