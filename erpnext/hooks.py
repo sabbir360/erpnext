@@ -10,7 +10,7 @@ app_icon = "fa fa-th"
 app_color = "#e74c3c"
 app_email = "info@erpnext.com"
 app_license = "GNU General Public License (v3)"
-source_link = "https://github.com/frappe/erpnext"
+source_link = "https://github.com/sabbir360/erpnext"
 
 error_report_email = "support@erpnext.com"
 
